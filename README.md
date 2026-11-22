@@ -4,7 +4,7 @@ An intelligent document analysis application that extracts structured insights f
 
 - Project Video Explanation: https://drive.google.com/file/d/11_T_IGaWlPG041uA_O7IMRkdhUR5Ugg8/view?usp=drive_link
 
-- Live Project Demo: https://ai-powered-document-insight-extractor.vercel.app/
+- Live Project Demo: https://frontend-ruby-pi-tz28sfllbr.vercel.app/
 
 ## 🎯 Features
 
